@@ -1,0 +1,15 @@
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.deps.json
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.dll
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\bin\Debug\net7.0\GrainInterfaces.dll
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\bin\Debug\net7.0\GrainInterfaces.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.AssemblyInfo.cs
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.CopyComplete
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.dll
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\refint\Grains.dll
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\INGENIERÍA DE SOFTWARE II\Orleans\OrleansHelloWorld\Grains\obj\Debug\net7.0\ref\Grains.dll
